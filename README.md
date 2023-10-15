@@ -1,5 +1,5 @@
-<img src="./assets/capa.png" width="100%" />
 ## DEV.LINKS.PROJETO.DISCOVER
+<img src="./assets/capa.png" width="100%" />
 
 ## Descrição do Projeto 
 O Projeto foi desenvolvido junto com a Trilha Discover da Rocketseat. 
